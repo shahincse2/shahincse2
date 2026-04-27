@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shahincse2&color=blue&style=flat)
 
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+Welcome+to+my+profile!;Flutter+App+Developer;M.Sc.+Engineering+Student;Machine+Learning+Enthusiast" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi,+Welcome+to+my+profile!;Flutter+App+Developer;M.Sc.+Engineering+Student;Machine+Learning+Enthusiast" alt="Typing SVG" />
 ---
 
 ### 🛠 Tech Stack & Tools
