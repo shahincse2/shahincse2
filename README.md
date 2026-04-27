@@ -2,6 +2,8 @@
 ### M.Sc. in Computer Science & Engineering | ML Researcher | Flutter Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shahincse2&color=blue&style=flat)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahincse2&color=green&style=flat-square)
 ---
 
 ### 🛠 Tech Stack & Tools
