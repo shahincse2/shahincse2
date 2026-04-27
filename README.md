@@ -1,8 +1,8 @@
-# Hi there, I'm Shahin! 👋 
+# Hi there, I'm Md. Shahin Alam!
 ### M.Sc. in Computer Science & Engineering | ML Researcher | Flutter Developer
 
 <p align="left">
-  <img src="https://metrics.lecoq.io/shahincse2?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FDhaka" alt="Metrics" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahincse2&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
 </p>
 
 ---
