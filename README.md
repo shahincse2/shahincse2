@@ -1,6 +1,12 @@
 # Hi there, I'm Md. Shahin Alam!
 ### M.Sc. in Computer Science & Engineering | ML Researcher | Flutter Developer
+# Hi there, I'm Shahin! 👋 
 
+<p align="left">
+  <img src="https://api.visitorbadge.io/api/visitors?page=shahincse2.shahincse2&label=Profile%20Views&countColor=%23263238&style=flat" alt="Visitors" />
+</p>
+
+### M.Sc. in Computer Science & Engineering | ML Researcher | Flutter Developer
 ---
 
 ### 🛠 Tech Stack & Tools
