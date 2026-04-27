@@ -1,10 +1,6 @@
 # Hi there, I'm Md. Shahin Alam!
 ### M.Sc. in Computer Science & Engineering | ML Researcher | Flutter Developer
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahincse2&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-</p>
-
 ---
 
 ### 🛠 Tech Stack & Tools
