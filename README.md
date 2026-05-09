@@ -29,7 +29,7 @@
 
 ---
 
-<!-- ### 🧬 Recent Research & Interests
+### 🧬 Recent Research & Interests
 * **Deep Learning:** Working with CNN-LSTM and Reinforcement Learning models.
 * **IoT Healthcare:** Developing non-invasive health monitoring prototypes.
 * **Optimization:** Enhancing cross-platform app performance using Flutter.
@@ -37,30 +37,17 @@
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/shahincse2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahincse2" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- এখানে গ্যাপের পরিমাণ নিয়ন্ত্রণ করা হয়েছে -->
- <!--  <a href="https://facebook.com/shahincse2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahincse2" height="30" width="40" />
-  </a>
-</p>-->
-
-
-### 📫 Connect with Me
-
-<table>
+<table align="center">
   <tr>
-    <td>
-      <a href="https://linkedin.com/in/shahincse2" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <td style="border: none;">
+      <a href="https://linkedin.com/in/shahincse2" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="80" />
       </a>
     </td>
-    <td width="20px"></td> <!-- এটি মাঝখানের গ্যাপ হিসেবে কাজ করবে -->
-    <td>
-      <a href="https://facebook.com/shahincse2" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <!-- This is your gap -->
+    <td style="border: none;">
+      <a href="https://facebook.com/shahincse2" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="60" width="80" />
       </a>
     </td>
   </tr>
