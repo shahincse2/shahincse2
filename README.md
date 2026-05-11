@@ -1,60 +1,158 @@
-# Hi there, I'm Md. Shahin Alam!
-### M.Sc. in Computer Science & Engineering | ML Researcher | Flutter Developer   ![Profile Views](https://komarev.com/ghpvc/?username=shahincse2&color=blue&style=flat)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Md. Shahin Alam
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi,+Welcome+to+my+profile!;Flutter+App+Developer;M.Sc.+Engineering+Student;Machine+Learning+Enthusiast" alt="Typing SVG" />
----
-
-### 🛠 Tech Stack & Tools
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
-| **Backend & DB** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
-| **Machine Learning** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) |
-| **IoT & Embedded** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
-
-
----
-
-### 📊 GitHub Analytics
+<h3 align="center">
+🎓 M.Sc. in Computer Science & Engineering <br>
+📱 Flutter Developer | 🤖 ML Researcher | 🔬 IoT Enthusiast
+</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahincse2&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahincse2&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=shahincse2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahincse2&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=750&lines=Flutter+Application+Developer;Cross-Platform+Mobile+App+Developer;Machine+Learning+Researcher;M.Sc.+Engineering+Student;Backend+REST+API+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧬 Recent Research & Interests
-* **Deep Learning:** Working with CNN-LSTM and Reinforcement Learning models.
-* **IoT Healthcare:** Developing non-invasive health monitoring prototypes.
-* **Optimization:** Enhancing cross-platform app performance using Flutter.
+# 🚀 About Me
+
+- 📱 Passionate **Flutter Application Developer**
+- 🎓 M.Sc. Engineering Student in Computer Science & Engineering
+- 🤖 Working on **Machine Learning & Deep Learning Research**
+- 🔬 Interested in **IoT-based Smart Healthcare Systems**
+- 🌱 Currently learning **Advanced Backend Architecture & AI Integration**
+- ⚡ Love building scalable mobile and backend applications
 
 ---
 
-### 📫 Connect with Me
-<table align="center">
-  <tr>
-    <td style="border: none;">
-      <a href="https://linkedin.com/in/shahincse2" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="80" />
-      </a>
-    </td>
-  <!-- This is your gap -->
-    <td style="border: none;">
-      <a href="https://facebook.com/shahincse2" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="60" width="80" />
-      </a>
-    </td>
-  </tr>
-</table>
+# 📱 Flutter Development Focus
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🔹 Flutter Expertise
+- Cross-Platform Mobile App Development
+- Responsive UI/UX Design
+- Firebase Integration
+- REST API Integration
+- State Management
+- Clean Architecture
+- Performance Optimization
+- Real-time Database Integration
 
 ---
+
+# 🛠 Tech Stack & Tools
+
+<p align="center">
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+
+### 🌐 Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+### 🔌 IoT & Embedded Systems
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+### 💻 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahincse2&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahincse2&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=shahincse2&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahincse2&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahincse2&theme=tokyo-night" />
+</p>
+
+---
+
+# 🧬 Research Interests
+
+- Deep Learning & Neural Networks
+- CNN-LSTM Architectures
+- Reinforcement Learning
+- AI-Powered Mobile Applications
+- IoT-based Healthcare Systems
+- Cross-Platform Performance Optimization
+
+---
+
+# 🚀 Featured Projects
+
+### 📱 Flutter Applications
+- Cross-platform mobile apps using Flutter & Firebase
+- Real-time applications with REST API integration
+- Clean architecture based scalable applications
+
+### 🌐 Backend Systems
+- Secure REST APIs with JWT Authentication
+- OTP Verification Systems
+- Task Management APIs with MongoDB
+
+### 🤖 AI & Research
+- CNN-LSTM Research Projects
+- IoT Smart Healthcare Prototypes
+- Deep Learning Optimization
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shahincse2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+
+  <a href="https://facebook.com/shahincse2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="55" />
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  </a>
+</p>
+
+---
+
+# 💡 Favorite Quote
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/shahincse2">Md. Shahin Alam</a>
 </p>
