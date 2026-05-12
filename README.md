@@ -5,7 +5,7 @@ Flutter Developer • AI Researcher • IoT Enthusiast
 </h3>
 
 <p align="center">
-Building scalable mobile applications, intelligent systems, and modern backend architectures.
+Building Scalable Mobile Applications, Intelligent Systems, and Modern Backend Architectures.
 </p>
 
 <p align="center">
