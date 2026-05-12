@@ -1,90 +1,124 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm Md. Shahin Alam
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Md. Shahin Alam
 
 <h3 align="center">
-🎓 M.Sc. in Computer Science & Engineering <br>
-📱 Flutter Developer | 🤖 ML Researcher | 🔬 IoT Enthusiast
+Flutter Developer • AI Researcher • IoT Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahincse2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+Building scalable mobile applications, intelligent systems, and modern backend architectures.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=750&lines=Flutter+Application+Developer;Cross-Platform+Mobile+App+Developer;Machine+Learning+Researcher;M.Sc.+Engineering+Student;Backend+REST+API+Developer" alt="Typing SVG" />
+<a href="https://github.com/shahincse2">
+<img src="https://komarev.com/ghpvc/?username=shahincse2&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 📱 Passionate **Flutter Application Developer**
-- 🎓 M.Sc. Engineering Student in Computer Science & Engineering
-- 🤖 Working on **Machine Learning & Deep Learning Research**
-- 🔬 Interested in **IoT-based Smart Healthcare Systems**
-- 🌱 Currently learning **Advanced Backend Architecture & AI Integration**
-- ⚡ Love building scalable mobile and backend applications
-
----
+I'm a Computer Science graduate and Flutter developer focused on building high-performance cross-platform applications with scalable backend systems.
 
 # 📱 Flutter Development Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
+I work on:
 
-### 🔹 Flutter Expertise
-- Cross-Platform Mobile App Development
-- Responsive UI/UX Design
-- Firebase Integration
-- REST API Integration
-- State Management
-- Clean Architecture
-- Performance Optimization
-- Real-time Database Integration
+* **Cross-Platform Flutter Application Development**
+* Responsive UI/UX Design
+* State Management
+* Clean Architecture
+* Performance Optimization
+* REST API, Firebase & MongoDB Integration
+* Interested in **IoT-Based Smart Healthcare Systems**
+
+Currently exploring:
+
+* AI Integration in Mobile Apps
+* Advanced Backend Architecture
+* Machine Learning & Deep Learning Research
 
 ---
 
-# 🛠 Tech Stack & Tools
-
-<p align="center">
+# 💻 Tech Stack
 
 ### 📱 Mobile Development
+
+<p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
 
 ### 🌐 Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-### 🤖 Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🤖 AI & Research
+
+<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
 ### 🔌 IoT & Embedded Systems
-<img src="https://skillicons.dev/icons?i=arduino" />
 
-### 💻 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,esp32" />
 </p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📋 Task Management System
+
+Scalable task management application with authentication and clean architecture.
+
+### Key Features
+
+* JWT authentication
+* CRUD operations
+* State management
+* REST API integration
+
+### Tech Stack
+
+Flutter • Express.js • MongoDB
+
+---
+
+## 🧠 AI-Powered Research Projects
+
+Research-focused deep learning and intelligent healthcare solutions.
+
+### Research Areas
+
+* Healthcare prediction systems
+* IoT-based monitoring systems
+* Deep learning optimization
+
+### Tech Stack
+
+Python • TensorFlow • PyTorch
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahincse2&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahincse2&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahincse2&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahincse2&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=shahincse2&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahincse2&theme=tokyonight&row=1&column=6" />
+<img width="100%" src="https://streak-stats.demolab.com?user=shahincse2&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -92,67 +126,50 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahincse2&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahincse2&theme=tokyo-night" />
 </p>
 
 ---
 
-# 🧬 Research Interests
+# 🎓 Education
 
-- Deep Learning & Neural Networks
-- CNN-LSTM Architectures
-- Reinforcement Learning
-- AI-Powered Mobile Applications
-- IoT-based Healthcare Systems
-- Cross-Platform Performance Optimization
+### Bachelor of Science in Computer Science & Engineering
 
----
+Bangladesh University of Business and Technology (BUBT)
 
-# 🚀 Featured Projects
+### Current Focus
 
-### 📱 Flutter Applications
-- Cross-platform mobile apps using Flutter & Firebase
-- Real-time applications with REST API integration
-- Clean architecture based scalable applications
-
-### 🌐 Backend Systems
-- Secure REST APIs with JWT Authentication
-- OTP Verification Systems
-- Task Management APIs with MongoDB
-
-### 🤖 AI & Research
-- CNN-LSTM Research Projects
-- IoT Smart Healthcare Prototypes
-- Deep Learning Optimization
+* Scalable Flutter applications
+* AI-powered systems
+* IoT healthcare solutions
+* Backend architecture
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/shahincse2" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
   <a href="https://facebook.com/shahincse2" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="55" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
   </a>
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  <a href="mailto:shahinalam.cse2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
 ---
 
-# 💡 Favorite Quote
+# 💡 Career Objective
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+Passionate about building impactful software solutions that solve real-world problems through mobile technologies, backend systems, artificial intelligence, and IoT innovation.
 
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/shahincse2">Md. Shahin Alam</a>
+⭐ From <a href="https://github.com/shahincse2">Md. Shahin Alam</a>
 </p>
