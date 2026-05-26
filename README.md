@@ -110,13 +110,6 @@ Python • TensorFlow • PyTorch
 ---
 
 # 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahincse2&show_icons=true&theme=tokyonight&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahincse2&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
 <p align="center">
 <img width="100%" src="https://streak-stats.demolab.com?user=shahincse2&theme=tokyonight&cache_seconds=1800" />
 </p>
