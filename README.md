@@ -8,12 +8,13 @@ Flutter Developer • AI Researcher • IoT Enthusiast
 Building Scalable Mobile Applications, Intelligent Systems, and Modern Backend Architectures.
 </p>
 
+<!--
 <p align="center">
 <a href="https://github.com/shahincse2">
 <img src="https://komarev.com/ghpvc/?username=shahincse2&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 </p>
-
+--->
 ---
 
 # 🚀 About Me
