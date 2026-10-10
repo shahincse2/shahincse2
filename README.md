@@ -126,8 +126,11 @@ Python • TensorFlow • PyTorch
 ---
 
 # 🎓 Education
+### M.Sc. Engineering in Computer Science & Engineering (Running)
 
-### Bachelor of Science in Computer Science & Engineering
+Dhaka University of Engineering and Technology (DUET)
+
+### B.Sc. Engineering in Computer Science & Engineering
 
 Bangladesh University of Business and Technology (BUBT)
 
